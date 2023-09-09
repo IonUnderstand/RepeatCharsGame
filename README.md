@@ -1,1 +1,2 @@
 # RepeatCharsGame
+This is a SimonSays game where the user will have to repeat the Characters they are shown in the console , and each time they succeed a new order of chars + 1 more is shown each time. If the user gets it wrong at any point, they are shown their incorrect order and the correct order side by side to show why they're wrong and they lose the game.
